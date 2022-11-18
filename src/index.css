@@ -10,3 +10,16 @@ body {
   margin: 0;
   background-color: #272727;
 }
+
+.formlist label{
+  display: block;
+  text-align: left;
+  margin-bottom: 5px;
+  font-size: 1.5rem;
+}
+.formlist input {
+  text-align: left;
+  display: block;
+  margin-bottom: 10px;
+  width: 70%;
+}
